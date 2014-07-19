@@ -7,6 +7,10 @@ Slideshare
 ----------
 http://www.slideshare.net/ianlintner/failure-37156899
 
+PDF Version
+-----------
+https://github.com/ianlintner/fail-at-building-websites/raw/master/Failure.pdf
+
 Links
 -----
 Ling's Cars: http://www.lingscars.com/
